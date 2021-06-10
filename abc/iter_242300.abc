@@ -4,10 +4,8 @@ M:4/4
 R:N/A
 K:Cmajor
 
-G2 C3 ~G2|
-[M:2/4] "G"ABd>g| fa a^g||
-V:1
-~a4- f2|g<a gd "Am"BA | EG AG |
-FG (3FGA BA|DFG>F FG E2C2 :|2 ABBA AG G2:|
-|:G2 BG G2 a2 | efge aea2 | fd~g3 :|
-af gd | e/c/c/G/ BdAA | GEDF D3B|A4 DF/G/|BA 
+
+|DAAB A2 AFB|B2 cB A3 ABG | f/g/a e^ede | f2 d2 ecAG|
+BdB GA/G/A | G2 GG FA E:|2 c2 d2 AB | A4- D2 :|2 B2 G>B A>FA>G | G2 G2 FA e2 | a3cde fgec dBG|GED GA :|
+|: AF AF ||
+B2B c3 | dcc BGD | FAd cBA |

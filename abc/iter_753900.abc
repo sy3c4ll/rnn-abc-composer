@@ -3,8 +3,10 @@ T:N/A
 M:4/4
 R:N/A
 K:Cmajor
-DFA F>A A2
-B5 BA | FD AF GA | AF AA A | g- g |b2ag {f}e2 ||
+FEF D>D C>B,||
+| "D" A BAFA|G2 AA
+B2 Af | "C" A3 B c2 | .B A a>_e | "Am" "D"f2 Bc | B2d2B3/4|c2 c2 d2 | "D" D3z2A|
+"F#m"e3D FD|G4 B3d|B4 d2 ||
 
-||: "C"c2d2 "D"E2 Gz|"D" b4 AB | c4 G>B | d>eg>f f2 | (fe) b2g2|
-"C" (3dBA G>F) "A7"E4|][aba fdg2|"Emix{g}f>g|e>c "Am" B2 "A"g2 | "D" a2 A 
+|:a2g2bz|g4 ef| "va2 f3 d>e) "F#m"E2 | "G"B3 z C2 :|
+E A

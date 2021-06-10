@@ -3,10 +3,12 @@ T:N/A
 M:4/4
 R:N/A
 K:Cmajor
-E|ef B2 Bc | cdec B2 de ||
-|: b2 e>d d/d/e | g2 ag | fa fd (3efa | g>^cd>A d>Bd>A |
-d4 =B2 |
-A2 BA ^G2 |
-fg d2 A3G | Bc de gfAe |a4 b4 | g2 fg af e3 | cdef fage | f3 b2 gf||
+B | AD FD | DB, DD | DC[B,2 |
+DE EG| cB AG|Fd:|
 
-|: gf | ge Be |BA BA | FD
+|: ef|ge ~e2 |[1 e>f g>af>g|
+dg edee | (3fed B2 cA|
+cAGA |
+E2 G2 | A/B/A cB | d2 de|^fdB2|a2 fe |"E,G)|B,EG,2
+^GG |:"D"G2 cB |ed "D/EF)|GFGG|c2 BA ||
+K

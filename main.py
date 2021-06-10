@@ -93,7 +93,7 @@ while True:
     txt = ''.join(ix_to_char[ix] for ix in sample_ix)
     print('----\n%s\n----' % (txt, ))
     open(f'abc/iter_{n}.abc','w').write('X:1\nT:N/A\nM:4/4\nR:N/A\nK:Cmajor\n'+txt)
-    if os.popen(f'abc2midi -o midi/iter_{n}.mid abc/iter_{n}.abc'):
+    if os.popen(f'abc2midi abc/iter_{n}.abc -o midi/iter_{n}.mid'):
         print('ABC FORMAT INCORRECT')
     else:
         print('ABC FORMAT CORRECT')

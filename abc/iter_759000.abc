@@ -3,8 +3,12 @@ T:N/A
 M:4/4
 R:N/A
 K:Cmajor
-FGA|GB/c/d ^ged|gad ecd|
-cBE Gdc|B2d A2B|BGF G2G/2G/2 | EDB,CB,|C2D A2F:|
-|:B/dD FDE|EFG A3|c/c/de gfe|dcB G2d e2c cBA|GBd cdd|fdd GAd|
-dcc AFE|FEF FEE||
-|:fAG EGd|d/BA/B/AG||1 d3/2e/2|f2 dcAF|DEBG AG
+edB|e2f ffe|d2B g2e|Ad A Ba g |
+e2 d :|
+
+|: BAG|B2B eAA|AGF AGE|DEG A2B|cde dAF|GAB cBc|dBG G2:|
+K: Emaj
+FB |d>Ad d2 | c>d^c dFAB | cBAG E2 :|
+|: B2 B g2 B|
+cAF EGF|E2G F2 ||
+|: GAef dBA=F|AAFA B2G2|
