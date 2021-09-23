@@ -3,5 +3,5 @@ import pandas as pd
 df=pd.read_csv('tunes.csv')
 with open('input/tunes.txt','w') as f:
   for i in df.index:
-    f.write(df['abc'][i]+'\n\n')
+    f.write(df['abc'][i]+'\n')
 
